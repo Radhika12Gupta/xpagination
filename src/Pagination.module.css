@@ -1,0 +1,35 @@
+
+.table{
+    border-bottom: #00A36C;
+}
+
+.tablerow{
+    border-bottom: 0.2rem gray;
+}
+th, td {
+    padding: 15px;
+    border-bottom: 1px solid lightgray;
+  }
+
+.tableHead{
+    background-color: #2AAA8A;
+    color: aliceblue;
+    width: 10%;
+
+}
+
+.buttonWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    width:7%;
+    padding: 0.3rem;
+    margin:0.2rem;
+    background-color: #2AAA8A;
+    color: white;
+    border-radius: 0.2rem;
+    border:#2AAA8A;
+}
